@@ -1,16 +1,23 @@
 ### Hi there 👋
+I am Sid Carredo, a Sr. Solutions Developer here in Navagis.
 
-<!--
-**navagis-sid/navagis-sid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **CALLIDUS PHASE 2**
+- 🤔 I’m looking for help with **REACT-REDUX**
+- 💬 Ask me about **Web Development**
+- 📫 How to reach me: sidney.carredo@navagis.com
 
-Here are some ideas to get you started:
+This are the projects I have helped since joining here:
+- **Fieldman**
+- **ALI-LMS**
+- **ALI-GAT**
+- **Rockwell**
+- **Callidus**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies used so far:
+
+|Frontend | Backend |
+|:-------:|:-------:|
+| <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/angular-3-logo.png" /> | <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" /> | 
+| <img src="https://www.import.io/wp-content/uploads/2017/10/React-logo.png" />      | <img src="https://repository-images.githubusercontent.com/203664833/cb492980-d0ad-11e9-8409-24df853c7078" />      |
+| <img src="https://rekit.js.org/images/logo_text.png?raw=true" /> | <img src="https://www.univention.com/wp-content/uploads/2020/04/200416-rest-api-713x285.jpg" />      |
+| <img src="https://www.clipartkey.com/mpngs/m/257-2576386_javascript-html-css-logo.png" /> | <img src="https://www.freepngimg.com/thumb/python_logo/5-2-python-logo-png-image.png" />
