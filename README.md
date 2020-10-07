@@ -5,8 +5,6 @@ I am Sid Carredo, a Sr. Solutions Developer here in Navagis.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navagis-sid)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=navagis-sid&repo=boilerplate)
-
 Projects I have helped since joining here:
 - **Fieldman**
 - **ALI-LMS**
