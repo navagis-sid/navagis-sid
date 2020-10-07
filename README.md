@@ -6,7 +6,7 @@ I am Sid Carredo, a Sr. Solutions Developer here in Navagis.
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me: sidney.carredo@navagis.com
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=navagis-sid&show_icons=true) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=navagis-sid&show_icons=true&count_private=true) 
 
 Projects I have helped since joining here:
 - **Fieldman**
