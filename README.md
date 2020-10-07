@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Sid Carredo, a Sr. Solutions Developer here in Navagis.
+I am Sid Carredo, a Solutions Developer here in Navagis.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=navagis-sid&show_icons=true&count_private=true) 
 
