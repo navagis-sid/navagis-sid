@@ -3,7 +3,7 @@ I am Sid Carredo, a Solutions Developer here in Navagis.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=navagis-sid&show_icons=true&count_private=true) 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navagis-sid&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navagis-sid)
 
 Projects I have helped since joining here:
 - **Fieldman**
